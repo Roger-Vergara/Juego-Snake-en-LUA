@@ -1,0 +1,8 @@
+El juego fue realizado en la versión de love2d 1.9.2 Baby Inspector ya que
+las versiónes superiores no me agarraban en la computadora, por lo que puede
+que los colores fallen en las versiones superiores ya que lo probe en otra
+computadora
+
+--Inicio del juego--
+
+El juego inicia como cualquier otro llamando al framework en consola "love snake_attack"
