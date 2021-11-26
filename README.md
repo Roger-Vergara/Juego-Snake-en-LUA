@@ -1,4 +1,4 @@
-# Juegos de Snake o la culebrita en LUA para la meteria de electiva V 
+# Juego de Snake o la culebrita en LUA para la meteria de electiva V 
 
 # print("¡Bienvenido!")
 
