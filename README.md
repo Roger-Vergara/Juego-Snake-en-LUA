@@ -1,6 +1,4 @@
-# Proyectos-en-LUA
-
-Aplicaciones, sistemas y otros elementos creados por mi persona
+# Juegos de Snake o la culebrita en LUA para la meteria de electiva V 
 
 # print("¡Bienvenido!")
 
